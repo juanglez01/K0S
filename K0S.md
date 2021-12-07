@@ -1,6 +1,6 @@
 # ¿Qué es K0S?
 
-__**K0S**__ es una distribución de Kubernetes. __**Kubernetes**__ es una plataforma portable y extensible para la administración de cargas de trabajos y servicios. 
+__K0S__ es una distribución de Kubernetes. __**Kubernetes**__ es una plataforma portable y extensible para la administración de cargas de trabajos y servicios. 
 Esta herramienta es de código abierto, esto quiere decir que su código fuente se ha puesto a disposición de todo el mundo de manera gratuita y otorgado con 
 licencias que facilita su reutilización o adaptación a contextos diferentes.
 Kubernetes facilita la automatización y la configuración declarativa. Tiene un ecosistema grande y en rápido crecimiento. El soporte, las herramientas y los servicios para 
