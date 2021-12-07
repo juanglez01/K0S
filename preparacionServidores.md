@@ -20,4 +20,4 @@ apt policy openssh-server
 ssh root@Ip_Servidor
 ```
 Nos pedirá si estamos seguro de conectarnos a esa máquina y respondemos: **yes**
-
+![conexionsevidor](https://github.com/juanglez01/K0S/blob/8b8a3f6a42366e3360b21f67aa36281b7fc6aa3f/Imagenes/conexion.PNG)
