@@ -1,5 +1,7 @@
 # Preparación del Servidor
 
+## 1. Verificamos que nuestra máquina tiene instalado el paquete ssh:
+
 ```
-Hola
+apt policy ssh
 ```
