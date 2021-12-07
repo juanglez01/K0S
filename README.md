@@ -4,7 +4,7 @@
 Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 
 ## Índice:
-1. [ Introducción ]()
+1. [ Introducción ](https://github.com/juanglez01/K0S/blob/1820b1d44fd068e6eb067daa6bc1fb2f3d7a7b6f/Introducci%C3%B3n.md)
 2. [ ¿Qué es K0S? ]()
 3. [ Cloud Server elegido ]()
 4. [ Preparación del servidor ]()
