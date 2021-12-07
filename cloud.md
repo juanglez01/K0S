@@ -38,3 +38,6 @@ Esta plataforma cuenta con servidores muy potentes y de grandes características
 - Sistemas Operativos Windows Server y Desktop.
 - Soporte para instalar otras herramientas como Docker, Lemp, Lamp, PFSense, Odoo, WordPress, Magento, etc.
 - Panel de Control de Control Vesta CP y Plesk Linux
+
+### Comunidad de Clouding.io:
+Parte importante de una plataforma que sabe lo que los Desarrolladores quieren, es la comunidad, en su sitio web cuentan con una extensa comunidad en donde puedes leer consultas de otros usuarios que te pueden servir para solucionar algún inconveniente con el servicio, asimismo puedes realizar una consulta sobre alguna duda que tengas.
