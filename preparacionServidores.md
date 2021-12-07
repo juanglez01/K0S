@@ -5,3 +5,4 @@
 ```
 apt policy ssh
 ```
+![aptpolicyssh](https://github.com/juanglez01/K0S/blob/658e4646ec5cef1b7a1de0a4e801e32e525b7d79/Imagenes/policyssh.PNG)
