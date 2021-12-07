@@ -3,7 +3,7 @@
 Como en el título indica, la plataforma donde se aloja nuestro servidor con Kubernetes es **Cloudiong.io**.
 
 ## Clouding.io
-[[https://github.com/juanglez01/K0S/blob/dc866ab690f49d23c60bd02eb62738e7ec409b61/Imagenes/clouding.io.jpg|alt=octocat]]
+![alt text]()
 
 Es una plataforma en la Nube que cuenta con Servidores VPS y muchos otros servicios interesantes. Sus servidores VPS permiten a los Desarrolladores y Empresas, alojar desde proyectos pequeños hasta proyectos grandes.
 La tecnología Clouding.io al ser una plataforma de alto rendimiento, nos permite crear diferentes tipos de proyectos, tales como:
