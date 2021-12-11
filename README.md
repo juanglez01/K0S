@@ -13,7 +13,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 
 ## Referencias:
 - [ Albert Coronado ](https://www.youtube.com/watch?v=gmFSmzAWcig)
-- [ Pelado Nerd ]()
+- [ Pelado Nerd ](https://www.youtube.com/watch?v=DCoBcpOA7W4)
 
 ## Licencias:
 - [ Licencia ](https://github.com/juanglez01/K0S/blob/71c3464bc13baff36bf5d650c3cb51f8116cf4d8/licencia.md)
