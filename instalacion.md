@@ -41,4 +41,4 @@ k0s start
 ```
 systemctl status k0scontroller.service
 ```
-![Clouding.io]()
+![k0sstatus](https://github.com/juanglez01/K0S/blob/e9bf4946965d60bbc1d9582e18b0816573c742b3/Imagenes/k0sstatus.png)
