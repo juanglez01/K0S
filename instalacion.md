@@ -27,7 +27,7 @@ chmod 777 /usr/local/bin/k0s
 ```
 k0s install controller --single
 ```
-![Clouding.io]()
+![k0snodos](https://github.com/juanglez01/K0S/blob/9aac6a19fc9a1e5d72baf08e4e36a50d346ddfe5/Imagenes/k0snodos.png)
 
 ### 4. Iniciamos K0S:
 
