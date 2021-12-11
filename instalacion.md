@@ -34,7 +34,7 @@ k0s install controller --single
 ```
 k0s start
 ```
-![Clouding.io]()
+![k0sstart](https://github.com/juanglez01/K0S/blob/558447cf9304979f2076a19f3d431ac521967dd4/Imagenes/k0sstart.png)
 
 ### 5. Comprobamos si eel servicio está funcionando correctamente:
 
