@@ -20,7 +20,7 @@ curl -L https://get.k0s.sh |sh
 ```
 chmod 777 /usr/local/bin/k0s
 ```
-![Clouding.io]()
+![Permisosk0s](https://github.com/juanglez01/K0S/blob/c43e5e1fbc970a7f57c42a69e2acb44697482646/Imagenes/permisosk0s.png)
 
 ### 3. Lo instalamos con un único nodo:
 
