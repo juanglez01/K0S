@@ -7,14 +7,13 @@ Vamos a proceder a la instalación de Kubernetes en nuestro servidor:
 ```
 apt update
 ```
-![Clouding.io]()
 
 ### 2. Descargamos k0s:
 
 ```
 curl -L https://get.k0s.sh |sh
 ```
-![Clouding.io]()
+![Descargak0s](https://github.com/juanglez01/K0S/blob/3619ff4ecabace088040c3e6e0578486955ae19c/Imagenes/descargak0s.png)
 
 ### 2. Le proporcionamos permisos de ejecutable:
 
