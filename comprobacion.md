@@ -13,7 +13,7 @@ k0s kubectl run pod-nginx --image=nginx
 ```
 k0s kubectl get all
 ```
-![ Elementosk0s ]()
+![ Elementosk0s ](https://github.com/juanglez01/K0S/blob/901c522b710b0f285c79d740ebec3b203e3d0e47/Imagenes/kubectlgetall.png)
 
 ## Vemos la descripción del pod creado:
 
